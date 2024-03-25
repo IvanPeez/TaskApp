@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Repositorio base del Curso de Introducción a React.js en Platzi
 
 ¡Hola, Platzinauta!
@@ -74,7 +73,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# TaskApp
-Aplicacion para crear tareas
->>>>>>> 2bd566c98a338a438174c371b2339453045170d8
