@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/IvanPeez/TaskApp.git/static/css/main.a2ee5e95.css",
-    "main.js": "/IvanPeez/TaskApp.git/static/js/main.79461db7.js",
-    "static/media/add-circle-svgrepo-com.png": "/IvanPeez/TaskApp.git/static/media/add-circle-svgrepo-com.622b578e729f59d9b355.png",
-    "static/media/add-circle-svgrepo-com hov.png": "/IvanPeez/TaskApp.git/static/media/add-circle-svgrepo-com hov.5c0a705bbf76302efc7c.png",
-    "index.html": "/IvanPeez/TaskApp.git/index.html",
-    "main.a2ee5e95.css.map": "/IvanPeez/TaskApp.git/static/css/main.a2ee5e95.css.map",
-    "main.79461db7.js.map": "/IvanPeez/TaskApp.git/static/js/main.79461db7.js.map"
+    "main.css": "./static/css/main.6e9b6cad.css",
+    "main.js": "./static/js/main.79461db7.js",
+    "static/media/add-circle-svgrepo-com.png": "./static/media/add-circle-svgrepo-com.622b578e729f59d9b355.png",
+    "static/media/add-circle-svgrepo-com hov.png": "./static/media/add-circle-svgrepo-com hov.5c0a705bbf76302efc7c.png",
+    "index.html": "./index.html",
+    "main.6e9b6cad.css.map": "./static/css/main.6e9b6cad.css.map",
+    "main.79461db7.js.map": "./static/js/main.79461db7.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2ee5e95.css",
+    "static/css/main.6e9b6cad.css",
     "static/js/main.79461db7.js"
   ]
 }
